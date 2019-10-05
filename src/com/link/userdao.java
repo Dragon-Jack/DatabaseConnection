@@ -19,9 +19,8 @@ public class userdao {
 //        update(u);
 //        user u = new user("小东", "147");
 //        add(u);
-
 //        del(6);
-        select(2);
+        select(1);
     }
     //配置内容
     static {
